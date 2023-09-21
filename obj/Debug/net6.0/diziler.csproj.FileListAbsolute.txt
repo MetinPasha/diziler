@@ -1,0 +1,14 @@
+D:\Sites\diziler\bin\Debug\net6.0\diziler.exe
+D:\Sites\diziler\bin\Debug\net6.0\diziler.deps.json
+D:\Sites\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+D:\Sites\diziler\bin\Debug\net6.0\diziler.dll
+D:\Sites\diziler\bin\Debug\net6.0\diziler.pdb
+D:\Sites\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+D:\Sites\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+D:\Sites\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+D:\Sites\diziler\obj\Debug\net6.0\diziler.dll
+D:\Sites\diziler\obj\Debug\net6.0\refint\diziler.dll
+D:\Sites\diziler\obj\Debug\net6.0\diziler.pdb
+D:\Sites\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+D:\Sites\diziler\obj\Debug\net6.0\ref\diziler.dll
